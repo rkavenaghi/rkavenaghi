@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Aluno de Graduação em Engenharia Mecânica na UNESP - Universidade Estadual Paulista - Campus de Ilha Solteira. 
+
