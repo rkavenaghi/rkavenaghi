@@ -2,7 +2,7 @@ Aluno de Graduação em Engenharia Mecânica na UNESP - Universidade Estadual Pa
 
 ##### Trabalhando em: 
   - TCC;
-  - Um ![*software*](https://rkavenaghi.github.io/MecEngCom/) para facilitar a vida projetistas.
+  - Um software para facilitar a vida projetistas.
   
 ##### Conhecimentos em:
  - Programação científica e cálculo numérico em Python;
