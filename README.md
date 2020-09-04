@@ -1,12 +1,12 @@
-Aluno de Graduação em Engenharia Mecânica na UNESP - Universidade Estadual Paulista - Campus de Ilha Solteira e cursando disciplinas da pós-graduação como Aluno Especial. Pesquisando o fenômeno de *shimmy* de trem de pouso e estudando alternativas de atenuação de vibrações em trem de pouso. Gosta de se aventurar pelos diversos campos de conhecimento e desenvolver as mais diversas habilidades. Além disso, é um ótimo cozinheiro nas horas vagas. 
+Aluno de Graduação em Engenharia Mecânica na UNESP - Universidade Estadual Paulista - Campus de Ilha Solteira e cursando disciplinas da pós-graduação como Aluno Especial. Pesquisando o fenômeno de *shimmy* de trem de pouso e estudando alternativas de atenuação de vibrações em trem de pouso. Gosta de se aventurar pelos diversos campos de conhecimento e desenvolver as mais diversas habilidades. 
 
 ##### Trabalhando em: 
-  - TCC;
-  - Um software para facilitar a vida projetistas em ![Link](https://github.com/rkavenaghi/MecEngCom).
+  - TCC - Uma Revisão do Método **ERA** Aplicado à Identificação de Modos de Trens de Pouso;
+  - Desenvolvimento de *![software](https://github.com/rkavenaghi/MecEngCom)* para integrar análises de Engenharia.
   
 ##### Conhecimentos em:
- - Programação científica e cálculo numérico em Python;
- - Desenho em Softwares-CAD.
+ - Programação científica em Python;
+ - Desenhos e em Softwares-CAD.
  
 ##### Interesse em:
  - Tecnologia;
