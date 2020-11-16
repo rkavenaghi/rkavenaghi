@@ -1,7 +1,11 @@
-Aluno de Graduação em Engenharia Mecânica na UNESP - Universidade Estadual Paulista - Campus de Ilha Solteira e cursando disciplinas da pós-graduação como Aluno Especial. Pesquisando o fenômeno de *shimmy* de trem de pouso e estudando alternativas de atenuação de vibrações em trem de pouso. Gosta de se aventurar pelos diversos campos de conhecimento e desenvolver as mais diversas habilidades. 
+Graduado em Engenharia Mecânica na UNESP - Universidade Estadual Paulista - Campus de Ilha Solteira e cursando a Pós-Graduação como Aluno Especial. 
+Estudando a dinâmica e controle de Veículos Aéreos Não Tripulados (*VANTS*) para transporte cooperativo de cargas. 
+
+Durante a graduação, pesquisou o fenômeno de *shimmy* de trem de pouso, aplicando diversas técnicas de análise de estabilidade do modelo linear de 1 grau de liberdade com dinâmica linear do pneu. Além disso, através da consideração das forças e momentos não lineares desenvolvidas na zona de contato do pneu com o solo, utilizou as representações com funções descritivas para determinar a amplitude e frequência de ciclos limites em função da variação de parâmetros de projeto e condições operacionais. 
 
 ##### Trabalhando em: 
   - Desenvolvimento de *![software](https://github.com/rkavenaghi/MECOM)* para integrar análises de Engenharia.
+  - Análise dinâmica e controle de Veículos Aéreos Não Tripulados
   
 ##### Finalizado:
   - TCC - Uma Revisão do Método **ERA** Aplicado à Identificação de Modos de Trens de Pouso. Acesso em: ![URL](https://github.com/rkavenaghi/ERA)
