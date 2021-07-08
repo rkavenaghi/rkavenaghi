@@ -4,7 +4,6 @@ Cursando o Mestrado na área de Dinâmica de Sistemas Mecânicos e estudando a d
 Durante a graduação, pesquisou o fenômeno de *shimmy* de trem de pouso, investigando e aplicando técnicas de análise de estabilidade dinâmica do modelo linear de 1 grau de liberdade com dinâmica linear do pneu. Além disso, através da consideração das forças e momentos não lineares desenvolvidas na zona de contato do pneu com o solo, utilizou as representações lineares equivalentes com funções descritivas para determinar a existência, amplitude e frequência das vibrações auto-excitadas do sistema dinâmico, observada através da formação de ciclos limites no espaço de configuração do sistema. 
 
 ##### Trabalhando em: 
-  - desenvolvimento de *![software](https://github.com/rkavenaghi/MECOM)* para integrar análises de Engenharia;
   - análise da dinâmica, estabilidade e controle de Vants.
   
 ##### Finalizado:
@@ -17,7 +16,7 @@ Durante a graduação, pesquisou o fenômeno de *shimmy* de trem de pouso, inves
 ##### Interesse em:
  - tecnologia;
  - manufatura e projeto de máquinas;
- - programação;
+ - programação *![software](https://github.com/rkavenaghi/MECOM)*;
  - aeronaútica. 
 
 ##### Contato: 
