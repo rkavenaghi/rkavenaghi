@@ -1,22 +1,12 @@
-Graduado em Engenharia Mecânica (2020) na  Universidade Estadual Paulista - Campus de Ilha Solteira, **FEIS-UNESP**.
-Cursando o Mestrado na área de Dinâmica de Sistemas Mecânicos e estudando a dinâmica, estabilidade e o controle de Veículos Aéreos Não Tripulados (**Vants**) para transporte cooperativo de cargas. 
+##### In Progress
+PhD in Mechanical Engineering.
+Development of Models for the Analysis of FWUAVs.
 
-##### Trabalhando em: 
-  - análise da dinâmica, estabilidade e controle de Vants.
-  
-##### Finalizado:
-  - TCC - Uma Revisão do Método **ERA** Aplicado à Identificação de Modos de Trens de Pouso. Acesso em: ![URL](https://github.com/rkavenaghi/ERA)
-  
-##### Conhecimentos em:
- - programação científica em Python;
- - desenho em softwares-CAD.
- 
-##### Interesse em:
- - tecnologia;
- - manufatura e projeto de máquinas;
- - programação *![software](https://github.com/rkavenaghi/MECOM)*;
- - aeronaútica. 
+##### Finished
+2023 - Master in Mechanical Engineering. Knowledge Area: Solid Mechanics. Title of the dissertation: "Modeling and Control of Multirotor UAVs Formation". Universidade Estadual Paulista - Campus de Ilha Solteira, **FEIS-UNESP**. Available at: http://hdl.handle.net/11449/242824
 
-##### Contato: 
+2020 - Mechanical Engineer  Universidade Estadual Paulista - Campus de Ilha Solteira, **FEIS-UNESP**.
+
+##### Contact: 
   - e-mail: cavenaghi.silva@unesp.br;
            
